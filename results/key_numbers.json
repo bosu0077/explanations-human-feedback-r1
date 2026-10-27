@@ -1,0 +1,15 @@
+{
+  "no_trainer_median_steps": 430.5,
+  "perfect_every_step": 31.5,
+  "err10_every_step": 72.0,
+  "err30_every_step": 494.0,
+  "err50_every_step_learned_share": 0.08,
+  "perfect_half": 66.5,
+  "err10_half": 115.0,
+  "err30_half": 451.5,
+  "speedup_err30_half_alpha0.1": 4.20045045045045,
+  "speedup_err30_half_alpha0.5": 1.0798004987531171,
+  "n_for_80pct_power_delta_0.05": "> 48",
+  "n_for_80pct_power_delta_0.1": "24",
+  "n_for_80pct_power_delta_0.15": "16"
+}
